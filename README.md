@@ -1,4 +1,4 @@
-## inferno-webpack-skeleton
+## CYCLE PLAY
 
 
 # notes
@@ -18,4 +18,4 @@ then:
 $ npm run watch
 
 
-localhost:8080
+localhost:8081
